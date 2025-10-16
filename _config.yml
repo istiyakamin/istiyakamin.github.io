@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Istiyak Amin"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "she/her"
+  bio              : "Strong software engineering background and research interests in Quantum Computing with Machine Learning"
   location         : "Cyberjaya, Malaysia"
   employer         : "Multimedia University"
   uri              : # URL
