@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Cv of Istiyak Amin Santo"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,18 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# **Istiyak Amin Santo**
 📍 Cyberjaya, Selangor, Malaysia 
-🔗 [LinkedIn](https://www.linkedin.com/in/istiyak-amin/) | [GitHub](https://github.com/istiyakamin)
+↗ [LinkedIn](https://www.linkedin.com/in/istiyak-amin/) | [GitHub](https://github.com/istiyakamin)
 
 ---
 
 ## 🎓 **SUMMARY**
 I am a Master’s student at **Multimedia University (MMU)** in Malaysia, studying Artificial Intelligence and Engineering.  
-Currently, I’m working on a research project that uses computer science and data analysis to help make clean energy from used cooking oil.  
-
-Previously, I worked as a **Software Engineer**, developing expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning**.  
-My next goal is to pursue a **PhD in Quantum Computing and Artificial Intelligence** to create smarter, more sustainable technologies for the future.
+Currently, I’m working on a research project that uses computer science and data analysis to help make clean energy from used cooking oil. Previously, I worked as a **Software Engineer**, developing expertise in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning. 
 
 ---
 
@@ -44,37 +40,19 @@ My next goal is to pursue a **PhD in Quantum Computing and Artificial Intelligen
 
 ---
 
-## 💻 **TECHNICAL SKILLS**
+## TECHNICAL SKILLS
 
-### 🧠 Programming & Software Development
-Python, Golang, PHP (Laravel, Lumen, Yii, Symfony), JavaScript (React, jQuery, Web3.js), R, Bash, SQL, MongoDB  
+| **Programming & Development** | **Backend & DevOps** |
+|---|---|
+| Python, Golang, PHP (Laravel, Lumen, Yii, Symfony), JavaScript (React, jQuery, Web3.js), R, Bash, SQL, MongoDB | Docker, Git/GitHub, CI/CD Pipelines, AWS, MLflow, FastAPI, Flask, Streamlit, Cloud Security, Load Balancing |
 
-### ⚙️ Backend & DevOps Engineering
-Docker, Git/GitHub, CI/CD Pipelines, AWS, MLflow, FastAPI, Flask, Streamlit, Cloud Security, Load Balancing  
+| **Data Science & Visualization** | **AI & Machine Learning** |
+|---|---|
+| Pandas, NumPy, Dask, Polars, Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash, ggplot2 | Scikit-learn, TensorFlow, Keras, PyTorch, fastai, XGBoost, LightGBM, AutoML, CNNs, RNNs, Transformers, BERT, GPT |
 
-### 📊 Data Analysis & Visualization
-Pandas, NumPy, Dask, Polars, Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash, ggplot2 (R)  
-
-### 📐 Mathematics & Scientific Foundations
-Linear Algebra, Calculus, Probability, Statistics, Optimization, Quantum Mechanics Fundamentals  
-
-### ⚛️ Quantum Computing & Research Tools
-Qiskit, PennyLane, Cirq, IBM Quantum Lab, Quantum Algorithms (QAOA, VQE), Quantum Machine Learning (QML)  
-
-### 🧩 Explainable AI (XAI)
-Grad-CAM, SHAP, LIME, Captum, Integrated Gradients, Saliency Maps, Explainable Transformers  
-
-### 🤖 Artificial Intelligence & Machine Learning
-Scikit-learn, TensorFlow, Keras, PyTorch, fastai, PyTorch Lightning, XGBoost, LightGBM, AutoML  
-
-### 🧬 Deep Learning & Neural Networks
-CNNs, RNNs, Transformers, BERT, GPT Models, LSTM, GANs, Reinforcement Learning  
-
-### ⛓️ Blockchain & Web Development
-Solidity, Smart Contracts, NFT Standards, Web3 Integration  
-
-### 🧰 Tools & Collaboration
-JupyterLab, VS Code, Notion, Kaggle, LaTeX, Overleaf, Google Colab, Research Collaboration Tools  
+| **Specialized Technologies** | **Research & Collaboration** |
+|---|---|
+| Qiskit, PennyLane, Quantum Computing, Explainable AI (SHAP, LIME, Grad-CAM), Blockchain, Smart Contracts | JupyterLab, VS Code, LaTeX, Overleaf, Kaggle, Google Colab, Linear Algebra, Statistics, Optimization |
 
 ---
 
