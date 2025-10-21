@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
 📍 Cyberjaya, Selangor, Malaysia 
 ↗ [LinkedIn](https://www.linkedin.com/in/istiyak-amin/) | [GitHub](https://github.com/istiyakamin)
 
 ---
 
 ## 🎓 **SUMMARY**
-I am a Master’s student at **Multimedia University (MMU)** in Malaysia, studying Artificial Intelligence and Engineering.  
+I am a Master’s student at **Multimedia University (MMU)** in Malaysia, studying Artificial Intelligence and Engineering. 
 Currently, I’m working on a research project that uses computer science and data analysis to help make clean energy from used cooking oil. Previously, I worked as a **Software Engineer**, developing expertise in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning. 
 
 ---
@@ -24,34 +25,34 @@ Currently, I’m working on a research project that uses computer science and da
 
 **Multimedia University (MMU), Cyberjaya, Malaysia**  
 *Master of Engineering Science (By Research)* — CGPA: **4.0/4.00**  
-📅 July 2024 – Dec 2025 (Expected)
+July 2024 – Dec 2025 (Expected)
 
 **Port City International University, Chattogram, Bangladesh**  
 *Bachelor of Computer Science & Engineering (Major: Software Engineering)* — CGPA: **3.63/4.00**  
-📅 Jan 2020 – Jan 2024
+Jan 2020 – Jan 2024
 
 **Chittagong Polytechnic Institute, Bangladesh**  
 *Diploma in Electronics Engineering* — CGPA: **3.01/4.00**  
-📅 Sep 2015 – Oct 2019
+Sep 2015 – Oct 2019
 
 **Noakhali Union High School, Bangladesh**  
 *Higher Secondary School Certificate (HSC)* — GPA: **4.89/5.00**  
-📅 Jan 2014 – Feb 2015
+Jan 2014 – Feb 2015
 
 ---
 
 ## TECHNICAL SKILLS
 
 | **Programming & Development** | **Backend & DevOps** |
-|---|---|
+|:---|:---|
 | Python, Golang, PHP (Laravel, Lumen, Yii, Symfony), JavaScript (React, jQuery, Web3.js), R, Bash, SQL, MongoDB | Docker, Git/GitHub, CI/CD Pipelines, AWS, MLflow, FastAPI, Flask, Streamlit, Cloud Security, Load Balancing |
 
 | **Data Science & Visualization** | **AI & Machine Learning** |
-|---|---|
+|:---|:---|
 | Pandas, NumPy, Dask, Polars, Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash, ggplot2 | Scikit-learn, TensorFlow, Keras, PyTorch, fastai, XGBoost, LightGBM, AutoML, CNNs, RNNs, Transformers, BERT, GPT |
 
 | **Specialized Technologies** | **Research & Collaboration** |
-|---|---|
+|:---|:---|
 | Qiskit, PennyLane, Quantum Computing, Explainable AI (SHAP, LIME, Grad-CAM), Blockchain, Smart Contracts | JupyterLab, VS Code, LaTeX, Overleaf, Kaggle, Google Colab, Linear Algebra, Statistics, Optimization |
 
 ---
