@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cv of Istiyak Amin Santo"
+title: "CV of Istiyak Amin Santo"
 permalink: /cv/
 author_profile: true
 redirect_from:

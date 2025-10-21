@@ -3,8 +3,8 @@ title: "Real-Time Nuclei Classification and Allred Scoringin PR-IHC Stained Brea
 collection: publications
 category: conferences
 permalink: /publication/real-time-breast-cancer
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: ''
+date: 2025-10-01
 venue: 'Phuket, Thailand, In Proceedings of the International Conference on Information Technology (InCIT 2025). IEEE (Scopus Indexed)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'

@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/hybrid-dl-framwork-breast-cancer
 excerpt: ''
-date: 2010-10-01
+date: 2025-10-01
 venue: 'Phuket, Thailand, In Proceedings of the International Conference on Information Technology (InCIT 2025). IEEE (Scopus Indexed)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
