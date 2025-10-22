@@ -26,7 +26,7 @@ By the end, you’ll be able to build your own **autonomous AI systems** that pe
 - Role of n8n in AI Agent Architecture  
 - Comparison: n8n vs LangChain vs AutoGPT vs CrewAI  
 - Installing and Setting Up n8n (Cloud & Localhost)
-
+    - [How to Install n8n on Windows Using WSL and Ubuntu (With Auto-Start Using systemd)](https://istiyakamin.github.io/posts/2025/10/n8n-install-wsl-using-systemd/)
 ---
 
 ### **Module 2: n8n Fundamentals for AI Developers**
