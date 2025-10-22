@@ -1,6 +1,6 @@
 ---
 title: 'How to Install n8n on Windows Using WSL and Ubuntu (With Auto-Start Using systemd)'
-date: 2012-08-14
+date: 2025-10-22
 permalink: /posts/2025/10/n8n-install-wsl-using-systemd/
 tags:
   - n8n
