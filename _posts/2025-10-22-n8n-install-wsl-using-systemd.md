@@ -161,6 +161,8 @@ systemd=true
 
 ```powershell
 wsl --shutdown
+wsl --list
+wsl -d DistroName
 ```
 
 Then reopen **Ubuntu** from the Start Menu.
